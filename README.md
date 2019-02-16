@@ -11,7 +11,7 @@ The method relies heavily on *sets* and *dictionaries*, using them in almost eve
 The main implementation is in **BFS.py** and actor-movie example data was mined from [IMDB](https://www.imdb.com) via the [www.themoviedb.org](https://www.themoviedb.org) API and saved in **Data_resources/data.json**. To help reorganize the raw data to the structure the method could work with, a helper function is also saved in the same directory as the main file.
 
 
-### Related Infomation
+### Related Information
 1. The mined data example is provided by MIT 6.009 (2019 Spring).
 2. This is my first time organizing a public Repository, please feel free to point out mistakes and places to improve.
 3. I'm very willing to share and learn, and this little piece of code is distributed under the MIT license.
