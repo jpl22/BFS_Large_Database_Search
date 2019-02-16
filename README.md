@@ -8,7 +8,7 @@ A simple implementation of BFS (Breadth-first search) for exponentially large da
 The method relies heavily on *sets* and *dictionaries*, using them in almost every possible place. The method introduces two sets: *considered* and *visited* to keep track of considered paths and visited nodes to make the BFS process as efficient as possible.
 
 ## File Resources
-The main implementation is in **BFS.py** and actor-movie example data was mined from [IMDB](https://www.imdb.com) via the [www.themoviedb.org](https://www.themoviedb.org) API and saved in **Data resources/data.json**. To help reorganize the raw data to the structure the method could work with, a helper function is also saved in the same directory as the main file.
+The main implementation is in **BFS.py** and actor-movie example data was mined from [IMDB](https://www.imdb.com) via the [www.themoviedb.org](https://www.themoviedb.org) API and saved in **Data_resources/data.json**. To help reorganize the raw data to the structure the method could work with, a helper function is also saved in the same directory as the main file.
 
 
 ### Related Infomation
