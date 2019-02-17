@@ -63,5 +63,4 @@ def helper_sort_path(dataDict, path, actor_id_start):
                 list.append(x)
                 father = x
                 set.remove(x)
-
     return list
